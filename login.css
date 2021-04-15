@@ -1,0 +1,29 @@
+.body
+{
+    margin: 0;
+    padding:0;
+    background-image: url(C:\Users\HP\Desktop\login page\backgrnd2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+
+
+
+
+
+.login
+{
+    font-size: large;
+    font-family:fantasy;
+    font-style: normal;
+    color: black;
+
+
+}
+.input3
+{
+    border-radius: 24px;
+    background-color:hsl(0,4%,75);
+    background-image:linear-gradient(white,blue);
+}
